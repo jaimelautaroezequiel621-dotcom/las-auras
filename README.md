@@ -26,3 +26,10 @@ Son las características de calidad que debe tener el sistema.
 4. **Seguridad:** los componentes eléctricos deben estar protegidos del agua.
 5. **Bajo costo:** debe utilizar componentes económicos y accesibles.
 6. **Durabilidad:** los componentes deben resistir el uso habitual y tener un mantenimiento adecuado.
+   componentes:
+1-arduino=8.000
+1-resistencia=1000
+5-cables=1000
+1-rele=3500
+1-led=(prestada)
+1-sensor de humedad=4000
